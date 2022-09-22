@@ -16,5 +16,5 @@
     "type": "git",
     "url": "https://github.com/sage1991/mui-svg-icons.git"
   },
-  "files": ["mui-icons", "README.md"]
+  "files": ["icons", "README.md"]
 }
